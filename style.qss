@@ -1,0 +1,4 @@
+QWidget {background-color: white}
+QLabel {background-color: yellow}
+QLabel#label2 {background-color: red}
+QLineEdit { font-size: 14px; padding: 5px; }
